@@ -12,6 +12,11 @@ Tenho 27 anos e estou a cada dia me encontrando nesse mundo do desenvolvimento
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarioFelipe14&repo=efood&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarioFelipe14&repo=e-mail-react-&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarioFelipe14&repo=ebac_sports&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Linguagens utilizadas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarioFelipe14&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
