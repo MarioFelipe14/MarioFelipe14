@@ -18,4 +18,4 @@ Tenho 27 anos e estou a cada dia me encontrando nesse mundo do desenvolvimento
 
 ### Contatos
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>]((https://www.linkedin.com/in/felipe-barbosa-frontend/))
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/felipe-barbosa-frontend/)
