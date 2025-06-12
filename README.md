@@ -10,7 +10,7 @@ Tenho 27 anos e estou a cada dia me encontrando nesse mundo do desenvolvimento
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarioFelipe14&repo=efood.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarioFelipe14&repo=efood&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagens utilizadas
 
