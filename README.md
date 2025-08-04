@@ -2,7 +2,9 @@
 
 
 ###### Sobre o Felipe
-Tenho 27 anos e estou a cada dia me encontrando nesse mundo do desenvolvimento
+Sou de São Luís (MA) e minha trajetória é marcada por redescobertas e coragem para recomeçar. Iniciei na área do Direito, mas logo percebi que não era minha verdadeira vocação. Em seguida, busquei novos caminhos na Engenharia Mecânica, atraído pela lógica e pelo funcionamento das coisas. No entanto, foi ao conhecer o desenvolvimento de software que encontrei meu real propósito.
+
+A combinação entre lógica, criatividade e resolução de problemas me conquistou, e desde então venho construindo minha carreira como desenvolvedor, motivado pela certeza de estar, finalmente, no caminho certo.
 
 ### Detalhes
 
